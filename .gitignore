@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+test/_engine.mjs
+.DS_Store
